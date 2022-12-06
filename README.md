@@ -49,15 +49,15 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 
 ### Part 2: 
 
-1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
+1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city. ****
 
-2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
+2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:    ***
 
-    a. A max temperature lower than 27 degrees but higher than 21
+    a. A max temperature lower than 27 degrees but higher than 21 ***
 
-    b. Wind speed less than 4.5 m/s
+    b. Wind speed less than 4.5 m/s ***
 
-    c. Zero cloudiness
+    c. Zero cloudiness  ***
 
 3. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
